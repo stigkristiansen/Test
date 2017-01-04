@@ -1,9 +1,7 @@
 <?
 
-require_once(__DIR__ . "/../TellstickUtil.php");  
-require_once(__DIR__ . "/../Logging.php");
 
-class Child extends IPSModule
+class TestChild extends IPSModule
 {
 
     
@@ -20,12 +18,12 @@ class Child extends IPSModule
 	
     public function ReceiveData($JSONString) {
 		
-	IPS_LogMessage("Child",$JSONString);
+		IPS_LogMessage("Child",$JSONString);
 		
     }
 
     public function SendDataFromChild($Data);
-	$this->SendDataToParent(json_encode(Array("DataID" => "{11ACFC89-5700-4B2A-A93C-18CAB413839C}", "Buffer" => $Data))); 
+	    $this->SendDataToParent(json_encode(Array("DataID" => "{11ACFC89-5700-4B2A-A93C-18CAB413839C}", "Buffer" => $Data))); 
     }
 
 }

@@ -1,11 +1,11 @@
 { 
     "id" :  "{8CD73BA3-349D-4653-9FE9-6A83A87A1197}" , 
-    "name" :  "Child" , 
+    "name" :  "TestChild" , 
     "type" :  3 , 
     "vendor" :  "Stig Kristiansen" , 
     "aliases" : 
     [ 
-        "Child"  
+        "TestChild"  
     ] ,   
     "parentRequirements" :  ["{BCCCF804-8CCD-48B4-AA71-CA8A2C309AFB}"] , 
     "childRequirements" :  [] , 
