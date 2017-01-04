@@ -1,5 +1,5 @@
 { 
-    "id" :  "{4EF96162-A853-44FC-86EF-07B85A1F4A36}" , 
+    "id" :  "{42DF61AE-0745-47D5-B12C-63819FA5DED7}" , 
     "name" :  "TestParent" , 
     "type" :  2 , 
     "vendor" :  "Stig Kristiansen" , 
@@ -8,7 +8,7 @@
         "TestParent"  
     ] ,   
     "parentRequirements" :  [] , 
-    "childRequirements" :  ["{6D0DC65B-7976-4030-8181-4B9EF6887716}"] , 
-    "implemented" :  ["{BCCCF804-8CCD-48B4-AA71-CA8A2C309AFB}"] , 
+    "childRequirements" :  ["{6063EE5E-88B2-4EB3-ABBD-C32333CCF758}"] , 
+    "implemented" :  ["{CF16984A-F1F7-4DFD-9939-E968F9260881}"] , 
     "prefix" :  "TSTP" 
 }

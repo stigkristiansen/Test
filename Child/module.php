@@ -23,7 +23,7 @@ class TestChild extends IPSModule
     }
 
     public function SendDataFromChild(string $Data) {
-	    $this->SendDataToParent(json_encode(Array("DataID" => "{11ACFC89-5700-4B2A-A93C-18CAB413839C}", "Buffer" => $Data))); 
+	    $this->SendDataToParent(json_encode(Array("DataID" => "{42DF61AE-0745-47D5-B12C-63819FA5DED7}", "Buffer" => $Data))); 
 		IPS_LogMessage("Child","Sent data");
     }
 
