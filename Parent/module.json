@@ -1,14 +1,16 @@
 { 
-    "id" :  "{42DF61AE-0745-47D5-B12C-63819FA5DED7}" , 
+    "id" :  "{655884D6-7969-4DAF-8992-637BEE9FD70D}" , 
     "name" :  "TestParent" , 
     "type" :  2 , 
-    "vendor" :  "Stig Kristiansen" , 
+    "vendor" :  "Stig" , 
     "aliases" : 
     [ 
         "TestParent"  
     ] ,   
     "parentRequirements" :  [] , 
-    "childRequirements" :  ["{6063EE5E-88B2-4EB3-ABBD-C32333CCF758}"] , 
-    "implemented" :  ["{CF16984A-F1F7-4DFD-9939-E968F9260881}"] , 
-    "prefix" :  "TSTP" 
+    "childRequirements" :  ["{9D6F86B3-54FC-4F4F-BDFF-59199926175B}"] , 
+    "implemented" :  ["{5FB5419B-9907-4E1D-BF62-E018EF378664}"] , 
+    "prefix" :  "TST" 
 }
+
+
