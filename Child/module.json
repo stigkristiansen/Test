@@ -10,5 +10,5 @@
     "parentRequirements" :  ["{5FB5419B-9907-4E1D-BF62-E018EF378664}"] , 
     "childRequirements" :  [] , 
     "implemented" :  ["{9D6F86B3-54FC-4F4F-BDFF-59199926175B}"] , 
-    "prefix" :  "TST" 
+    "prefix" :  "TSTC" 
 }
